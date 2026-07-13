@@ -1,11 +1,21 @@
-# Installing Git
-## Windows
-Download Git.
-## Mac
-brew install git
-## Ubuntu
-sudo apt install git
-## Check version
+# 📥 Install Git
+
+| Operating System | Command |
+|-----------------|---------|
+| 🪟 Windows | Download from https://git-scm.com/downloads |
+| 🍎 macOS | `brew install git` |
+| 🐧 Ubuntu/Debian | `sudo apt update && sudo apt install git` |
+
+---
+
+## Verify Installation
+
+```bash
 git --version
-Example
+```
+
+Output
+
+```bash
 git version 2.50.1
+```
