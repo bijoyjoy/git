@@ -19,3 +19,4 @@ Output
 ```bash
 git version 2.50.1
 ```
+> 💡 **Tip:** Always verify the installation using `git --version`.
